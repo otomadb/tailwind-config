@@ -1,0 +1,12 @@
+{
+  "name": "@otomadb/tailwind-config",
+  "scripts": {
+    "prepare": "lefthook install"
+  },
+  "packageManager": "pnpm@8.11.0",
+  "main": "main.js",
+  "devDependencies": {
+    "lefthook": "^1.5.5",
+    "prettier": "3.1.0"
+  }
+}

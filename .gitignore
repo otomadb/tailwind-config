@@ -1,0 +1,7 @@
+.envrc
+
+# dependency
+node_modules/
+
+# VSCode
+.vscode/settings.json
